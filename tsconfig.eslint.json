@@ -1,0 +1,4 @@
+{
+	"extends": "./tsconfig.json",
+	"include": ["server/**/*", "scripts/**/*", "src/**/*", "next.config.js"]
+}
