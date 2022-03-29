@@ -45,4 +45,3 @@ This will always be open source project, even if I don't receive donations. But 
 Project is licensed under the © [**MIT License**](/LICENSE)
 
 ---
-# paperplane
