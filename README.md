@@ -11,6 +11,15 @@
 
 PaperPlane is a file/shorturl upload server that is created for ShareX users. It comes with a lot of cool features such as a clean dashboard, file renaming, frontend file/url uploading and a lot more.
 
+## Author
+
+👤 **DaanGamesDG**
+
+-   Website: https://daangamesdg.xyz/
+-   Email: <daan@daangamesdg.xyz>
+-   Twitter: [@DaanGamesDG](https://twitter.com/DaanGamesDG)
+-   Github: [@DaanGamesDG](https://github.com/DaanGamesDG)
+
 ## Features
 
 - Fast rendering thanks to Next.js
